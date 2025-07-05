@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Pull Request Review Agent
+# AI-Powered Pull Request Review Agent
 
 
 ## Overview
